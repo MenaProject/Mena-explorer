@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="358.002" height="316.504" viewBox="0 0 358.002 316.504">
-  <g id="Group_5" data-name="Group 5" transform="translate(-3366.999 708.252)">
-    <path id="Subtraction_5" data-name="Subtraction 5" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5220.882 -576.253)"/>
-    <path id="Subtraction_6" data-name="Subtraction 6" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5366.882 -576.253)"/>
-    <path id="Subtraction_7" data-name="Subtraction 7" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5512.883 -576.253)"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(-3366.999 708.252)">
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5220.882 -576.253)" fill="#fff"/>
+    <path id="Subtraction_6" data-name="Subtraction 6" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5366.882 -576.253)" fill="#fff"/>
+    <path id="Subtraction_7" data-name="Subtraction 7" d="M-1853.883,184.5h0v-278.4l66-38.105V146.4l-66,38.105Z" transform="translate(5512.883 -576.253)" fill="#fff"/>
   </g>
 </svg>
