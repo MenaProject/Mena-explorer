@@ -4473,7 +4473,6 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   white-space: nowrap;
   text-align: center;
   background-color: gray;
-  border-radius: 10px;
 }
 
 
@@ -4943,21 +4942,16 @@ button.list-group-item-danger.active:focus {
 .panel {
   margin-bottom: 20px;
   background-color: rgb(0, 12, 46, 0.496);
-  border-radius: 10px;
   box-shadow: 0 1px 1px rgb(0, 0, 0, 0.05);
 }
 
 .panel-body {
   padding: 10px;
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
   background: rgb(26, 26, 26);
 }
 
 .panel-heading {
   padding: 8px 10px;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
   border-bottom: transparent;
 }
 
@@ -5131,8 +5125,6 @@ button.list-group-item-danger.active:focus {
 }
 
 .panel-default {
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
 }
 
 .panel-default>.panel-heading {
@@ -9527,7 +9519,7 @@ legend {
   .input-wrapper {
     padding: 2rem;
     padding-top: 0;
-    background: rgb(240, 240, 240);
+    background: #fff8e9;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
   }
@@ -10542,7 +10534,6 @@ legend {
     white-space: nowrap;
     text-align: center;
     background-color: black;
-    border-radius: 10px;
   }
 
   .btn .badge {
@@ -11010,21 +11001,16 @@ legend {
   .panel {
     margin-bottom: 20px;
     background-color: rgb(0, 12, 46, 0.496);
-    border-radius: 10px;
     box-shadow: 0 1px 1px rgb(0, 0, 0, 0.05);
   }
 
   .panel-body {
     padding: 10px;
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-    background: rgb(240, 240, 240);
+    background: #fff8e9;
   }
 
   .panel-heading {
     padding: 8px 10px;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
     border-bottom: 1px solid transparent;
   }
 
@@ -11198,13 +11184,11 @@ legend {
   }
 
   .panel-default {
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
   }
 
   .panel-default>.panel-heading {
     color: black;
-    background-color: rgb(240, 240, 240);
+    background-color: #fff8e9;
   }
 
   .panel-default>.panel-heading .badge {
@@ -11965,7 +11949,7 @@ legend {
   }
 
   .navbar-default {
-    background-color: rgb(240, 240, 240);
+    background-color: #fff8e9;
   }
 
   .btn-default {
@@ -12174,7 +12158,6 @@ h7 {
   padding-left: 1rem;
   float: none;
   background: rgb(26, 26, 26);
-  border-radius: 10px;
 }
 
 .listStats {
@@ -12193,6 +12176,7 @@ h7 {
 
 .icon-xkr {
   background-image: url(/img/icon-darkmode.svg);
+  height: auto;
 }
 
 #coinIcon {
@@ -12331,7 +12315,6 @@ table {
 }
 
 thead {
-  border-radius: 10px;
   border: transparent;
   background-color: transparent;
   padding-top: none;
@@ -12409,8 +12392,7 @@ tr {
     padding-bottom: 2rem;
     padding-left: 1rem;
     float: none;
-    background: rgb(240, 240, 240);
-    border-radius: 10px;
+    background: #fff8e9;
   }
 
   .listStats {
@@ -12430,7 +12412,7 @@ tr {
   }
 
   body {
-    background: rgb(255, 255, 255);
+    background: #fff1cf;
     color: #1a1a1abb;
     padding-top: 65px;
     padding-bottom: 10px;
@@ -12438,7 +12420,7 @@ tr {
   }
 
   .containerChart {
-    background: rgb(240, 240, 240);
+    background: #fff8e9;
   }
 
   #nav-brand,
@@ -12521,7 +12503,7 @@ tr {
   }
 
   .form-control {
-    background-color: rgb(230, 229, 229);
+    background-color: #ffffff;
     color: #3434348c;
   }
 
@@ -12558,14 +12540,13 @@ tr {
   }
 
   thead {
-    border-radius: 10px;
     border: transparent;
     background-color: transparent;
     padding-top: none;
   }
 
   tr {
-    background: rgb(240, 240, 240) !important;
+    background: #fff8e9 !important;
     color: black;
     border: transparent;
   }
