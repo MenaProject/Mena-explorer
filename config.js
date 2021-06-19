@@ -8,13 +8,13 @@ var refreshDelay = 30000;
 
 
 const ExplorerConfig = {
-    apiBaseUrl: 'https://explorer.kryptokrona.se/api'
+    apiBaseUrl: 'https://explorer.menaproject.org/api'
   }
 
 // pools stats
 var networkStat = {
  "xkr": [
-    ["pool.kryptokrona.se", "https://explorer.kryptokrona.se/pool1/"]
+    ["pool.menaproject.org", "https://explorer.menaproject.org/pool1/"]
  ]
 };
 
